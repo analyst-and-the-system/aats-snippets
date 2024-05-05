@@ -1,2 +1,4 @@
+^renv$
+^renv\.lock$
 ^aats-snippets\.Rproj$
 ^\.Rproj\.user$
